@@ -1,1 +1,2 @@
 Test Case 1: Verify login with valid credentials
+Test Case 2: Verify login with invalid password
